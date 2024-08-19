@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Devops Engineer",
+    "organisation": "iSolve Technologies",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences":[["AWS Infrastructure Design & Management: Specialized in architecting and managing robust AWS environments (EC2, VPC, IAM, ECR, S3) for healthcare applications, implementing VPC peering, load balancers, AMIs, and autoscaling for high availability and scalability."],
+    ["CI/CD Automation & Code Quality: Proficient in automating CI/CD pipelines using Jenkins, integrating Maven for builds, and ensuring code quality with SonarQube for seamless and consistent software delivery."],
+    ["Microservices & Container Orchestration: Expertise in deploying microservices using Docker containers and managing Kubernetes clusters on EKS, focusing on efficient orchestration and streamlined operations."],
+    ["Monitoring & Troubleshooting: Skilled in setting up comprehensive monitoring solutions with Prometheus, Grafana, and Loki for pod-level insights and Elasticsearch for optimizing catalog search functionality."],
+    ["Database Management & Security: Competent in managing MSSQL databases, overseeing operations, user access, and permissions, while ensuring data integrity and performing advanced troubleshooting for business-critical applications."]] ,
+    "imageSrc": "history/google.png"
+  }
+]

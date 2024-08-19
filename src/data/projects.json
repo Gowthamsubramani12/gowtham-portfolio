@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AWS Production and Disaster recovery",
+    "imageSrc": "projects/project.jpg",
+    "description": "Deployed a scalable WordPress application on AWS with a production environment in a primary region, disaster recovery setup in a secondary region..",
+    "skills": ["AWS","Wordpress","Shell script"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gowthamsubramani12"
+  },
+  {
+    "title": "Ultimate Corporate Boardgame",
+    "imageSrc": "projects/project2.jpg",
+    "description": "Ultimate Corporate BoardGameTools, optimizing the CI/CD pipeline using GitHub, Maven, SonarQube, Docker, and Kubernetes.",
+    "skills": ["AWS","CI/CD","K8S","Monitoring"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gowthamsubramani12/DevopsProject1"
+  },
+  {
+    "title": "10-Tier microservices application",
+    "imageSrc": "projects/project3.jpg",
+    "description": "Streamlined CI/CD pipelines, automated deployments, and ensured scalability, security, and high code quality across microservices.",
+    "skills": ["AWS","Docker","Kubernetes","CI/CD"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gowthamsubramani12/10-MicroService-Appliction"
+  }
+]

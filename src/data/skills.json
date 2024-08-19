@@ -1,0 +1,72 @@
+[
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "AZURE",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "GCP",
+    "imageSrc": "skills/google-cloud.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Git Hub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Maven",
+    "imageSrc": "skills/maven.png"
+  },
+  {
+    "title": "Sonar",
+    "imageSrc": "skills/sonarqube.png"
+  },
+  {
+    "title": "Tearform",
+    "imageSrc": "skills/terraform.png"
+  },
+  {
+    "title": "Ansible",
+    "imageSrc": "skills/ansible.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "K8",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title": "Prometheus",
+    "imageSrc": "skills/prometheus.png"
+  },
+  {
+    "title": "Grafana",
+    "imageSrc": "skills/grafana.png"
+  },
+  {
+    "title": "MSSQL",
+    "imageSrc": "skills/microsoft-sql.png"
+  },
+  {
+    "title": "Security",
+    "imageSrc": "skills/cyber-security.png"
+  }
+
+  
+]
